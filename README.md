@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deviprasadkl&label=Profile%20views&color=0eb4a9&style=plastic" alt="deviprasadkl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviprasadkl&theme=monokai" alt="deviprasadkl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviprasadkl&theme=darkhub" alt="deviprasadkl" /></a> </p>
 
 - 🔭 I’m currently working at **Dhee Yantra Research Labs**
 
