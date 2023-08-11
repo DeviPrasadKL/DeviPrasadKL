@@ -28,9 +28,9 @@
 
 <details>
 <summary><h2>📊 Github Stats and Activity</h2></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deviprasadkl&theme=soft-green&show_icons=true&locale=en&layout=compact" alt="deviprasadkl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deviprasadkl&theme=soft-green&show_icons=true&locale=en" alt="deviprasadkl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deviprasadkl&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"  alt="deviprasadkl" /></p> </br>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deviprasadkl&show_icons=true&theme=radical" alt="deviprasadkl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deviprasadkl&theme=soft-green" alt="deviprasadkl" /></p>
 </details>
