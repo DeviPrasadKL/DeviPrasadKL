@@ -9,7 +9,7 @@
 <summary>
 <h3 align="left">About me:</h3>
 </summary>
-- 🔭 I’m currently working at **Dhee Yantra Research Labs**
+- 🔭 I’m currently working at <b>Dhee Yantra Research Labs</b>
 
 - 🌱 I’m currently learning **Next JS**
 
