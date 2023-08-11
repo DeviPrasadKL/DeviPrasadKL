@@ -31,7 +31,7 @@
 
 
 <details>
-<summary><h2>📊 Github Stats and Activity</h2></summary>
+<summary><h2>Github Stats and Activity</h2></summary>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=deviprasadkl&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"  alt="deviprasadkl" height="195px" width="400px" /></p> 
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deviprasadkl&show_icons=true&theme=radical" alt="deviprasadkl" /></p>
