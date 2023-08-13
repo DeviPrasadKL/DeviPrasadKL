@@ -79,8 +79,9 @@
 <!-- Graph ends -->
 
 <!--Snake Game start-->
+<!--
 <p align="center">
 <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
-<br>
+<br>  -->
 <!--Snake Game end -->
