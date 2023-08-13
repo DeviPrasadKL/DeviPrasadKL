@@ -7,11 +7,11 @@
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Software+Developer;Open+Source+Contributor;Tech+Enthusiast;"/>
 <br>
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=deviprasadkl&label=Profile%20views&color=0eb4a9&style=plastic" alt="deviprasadkl" /> </p> 
-<p align="center"> 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=deviprasadkl&label=Hello%20visitors&color=0eb4a9&style=plastic" alt="deviprasadkl" /> </p> 
+<!-- <p align="center"> 
   Views <br>
-  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
-</p>
+  <img src="https://profile-counter.glitch.me/deviprasadkl/count.svg" />
+</p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviprasadkl&theme=darkhub&row=2&column=3" alt="deviprasadkl" /> </a> </p>
 
