@@ -1,9 +1,16 @@
+<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
+
 <h1 align="center">Hi, I'm Devi Prasad</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<!-- <h3 align="center">A passionate Software developer from India</h3> -->
+<p align="right">
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Software+Developer;Open+Source+Contributor;Tech+Enthusiast;"/>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deviprasadkl&label=Profile%20views&color=0eb4a9&style=plastic" alt="deviprasadkl" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviprasadkl&theme=darkhub&row=2&column=3" alt="deviprasadkl" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviprasadkl&theme=darkhub&row=2&column=3" alt="deviprasadkl" /> </a> </p>
+
+<img align="right" alt="Coding" width="450"  src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <details>
 <summary>
