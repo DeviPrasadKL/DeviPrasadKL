@@ -60,8 +60,15 @@
 <a href="https://instagram.com/https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" height="30" width="40" /></a>
 </p>
 </details>
+<!-- Graph starts -->
+<div align="center">
+  <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=deviprasadkl&theme=react-dark&area=true&hide_border=true&hide_title=true">
+</div>
+<!-- Graph ends -->
 
+<!--Snake Game start-->
 <p align="center">
 <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 <br>
+<!--Snake Game end -->
