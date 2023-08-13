@@ -7,7 +7,11 @@
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Software+Developer;Open+Source+Contributor;Tech+Enthusiast;"/>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deviprasadkl&label=Profile%20views&color=0eb4a9&style=plastic" alt="deviprasadkl" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=deviprasadkl&label=Profile%20views&color=0eb4a9&style=plastic" alt="deviprasadkl" /> </p> 
+<p align="center"> 
+  Views <br>
+  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deviprasadkl&theme=darkhub&row=2&column=3" alt="deviprasadkl" /> </a> </p>
 
@@ -15,7 +19,7 @@
 
 <details>
 <summary>
-<h3 align="left">About me</h3>
+<h3 align="left">About me </h3>
 </summary>
 - 🔭 I’m currently working at <b>Dhee Yantra Research Labs</b>
 
@@ -56,3 +60,8 @@
 <a href="https://instagram.com/https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" height="30" width="40" /></a>
 </p>
 </details>
+
+<p align="center">
+<img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+<br>
