@@ -4,7 +4,6 @@
 <!--Top Banner ends -->
 
 
-
 <h1 align="center">Hi, I'm Devi Prasad</h1>
 <!-- <h3 align="center">A passionate Software developer from India</h3> -->
 <p align="right">
