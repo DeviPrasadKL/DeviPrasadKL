@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 🤝 I’m looking for new role **Frontend Developer, React js Developer**
+<!-- - 🤝 I’m looking for new role **Frontend Developer, React js Developer** -->
 
 - 👨‍💻 All of my projects are available at [https://deviprasadkl.github.io/Portfolio/](https://deviprasadkl.github.io/Portfolio/)
 
