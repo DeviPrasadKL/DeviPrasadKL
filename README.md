@@ -154,8 +154,8 @@
 <h3 align="left">Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
 </summary>
 <p align="left">
-<a href="https://www.linkedin.com/in/devi-prasad-496610252/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devi-prasad-496610252/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devi-prasad-496610252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devi-prasad-496610252/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" height="30" width="40" /></a>
 </p>
 </details>
 <!-- Connect with me ends -->
