@@ -36,7 +36,7 @@
 
 - 📫 You can reach me here **deviprasadofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TUymM9SDk_jeyS8iR0rNKh4k6AFDe6_l/view?usp=drive_link](https://drive.google.com/file/d/1TUymM9SDk_jeyS8iR0rNKh4k6AFDe6_l/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1QGdKcZo4W5doYFg7JH7DXkvUjzqDjLqA/view?usp=sharing)
 </details>
 <!-- About me ends -->
 
