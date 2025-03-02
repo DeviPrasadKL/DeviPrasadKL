@@ -46,6 +46,10 @@
 <h3 align="left">Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></h3>
 </summary>
 <p align="left">
+      <a href="https://frappe.io/framework/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://discuss.frappe.io/uploads/default/original/3X/a/5/a5e946e67fbe05a61d1c33d08894876d4d9dea7a.png"
+            width="36" alt="Frappe Forum" id="site-logo" class="logo-small">
+    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
