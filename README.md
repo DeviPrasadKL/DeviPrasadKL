@@ -164,7 +164,7 @@
 <!-- Connect with me ends -->
 
 <!-- 3D Commits graph starts -->
-<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
+![](./profile-3d-contrib/profile-night-green.svg)
 <!-- 3D Commits graph ends-->
 
 <!-- Graph starts -->
