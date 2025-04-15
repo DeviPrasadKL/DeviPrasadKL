@@ -45,7 +45,7 @@
 <summary>
 <h3 align="left">Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></h3>
 </summary>
-  <a href="https://skillicons.dev](https://deviprasadkl.github.io/Portfolio/" target="blank">
+  <a href="https://skillicons.dev](https://deviprasadkl.github.io/Portfolio/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,vite,nextjs,redux,tailwind,bootstrap,materialui,java,nodejs,expressjs,maven,regex,threejs,mysql,mongodb,postgres,firebase,supabase,postman,github,git,gitlab,vercel,netlify,heroku,kafka,vim,docker,aws,bash,redis,vscode,visualstudio,eclipse,idea,hibernate,linux,ubuntu,mint,debian,redhat,apple&perline=7" 
       />
   </a>
@@ -161,10 +161,10 @@
 <h3 align="left">Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
 </summary>
 <p align="left">
-    <a href="https://www.linkedin.com/in/devi-prasad-496610252/" target="blank">
+    <a href="https://www.linkedin.com/in/devi-prasad-496610252/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://instagram.com/https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="blank">
+    <a href="https://instagram.com/https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
 <!--   <a href="https://www.linkedin.com/in/devi-prasad-496610252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devi-prasad-496610252/" height="30" width="40" />
