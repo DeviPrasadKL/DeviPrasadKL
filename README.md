@@ -46,7 +46,7 @@
 <h3 align="left">Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></h3>
 </summary>
   <a href="https://deviprasadkl.github.io/Portfolio/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,vite,nextjs,redux,tailwind,bootstrap,materialui,java,nodejs,expressjs,maven,regex,threejs,mysql,mongodb,postgres,firebase,supabase,postman,github,git,gitlab,vercel,netlify,heroku,kafka,vim,docker,aws,bash,redis,vscode,visualstudio,eclipse,idea,hibernate,linux,ubuntu,mint,debian,redhat,apple&perline=7" 
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,vite,nextjs,redux,tailwind,bootstrap,materialui,java,nodejs,expressjs,maven,spring,regex,threejs,mysql,mongodb,postgres,firebase,supabase,postman,github,git,gitlab,vercel,netlify,heroku,kafka,vim,docker,aws,bash,redis,vscode,visualstudio,eclipse,idea,hibernate,linux,ubuntu,mint,debian,redhat,apple&perline=7" 
       />
   </a>
 
