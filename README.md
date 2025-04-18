@@ -164,7 +164,7 @@
     <a href="https://www.linkedin.com/in/devi-prasad-496610252/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://instagram.com/https://instagram.com/deviprasad_01?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="_blank">
+    <a href="https://www.instagram.com/deviprasad_01?igsh=MTZlNTc1aXg0djRpaA==" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
 <!--   <a href="https://www.linkedin.com/in/devi-prasad-496610252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devi-prasad-496610252/" height="30" width="40" />
