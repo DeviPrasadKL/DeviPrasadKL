@@ -28,7 +28,7 @@
 </summary>
 - 🔭 I’m currently working at <b>Novel Office</b>
 
-- 🌱 I’m currently learning **Next JS**
+<!-- - 🌱 I’m currently learning **Next JS** -->
 
 <!-- - 🤝 I’m looking for new role **Frontend Developer, React js Developer** -->
 
