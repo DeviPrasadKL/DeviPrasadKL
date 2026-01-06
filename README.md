@@ -35,9 +35,10 @@
 - 👨‍💻 All of my projects are available at [here](https://deviprasadkl.github.io/Portfolio/)
 
 - 📫 You can reach me here **deviprasadofficial@gmail.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1cJvF6BENNc6LBWw-fNfmCt3FPDUvBP3i/view?usp=sharing)
+<!--
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1CXLEMzWez-D0VIJK3mBKAO16TMq_rsji/view?usp=sharing) -->
 </details>
+
 <!-- About me ends -->
 
 <!-- Languages and Tools starts -->
