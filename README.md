@@ -26,7 +26,7 @@
 <summary>
 <h3 align="left">About me </h3>
 </summary>
-- 🔭 I’m currently working at <b>Novel Office</b>
+- 🔭 I’m currently working at <b>Cisco</b>
 
 <!-- - 🌱 I’m currently learning **Next JS** -->
 
